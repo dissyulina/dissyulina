@@ -29,3 +29,16 @@ My name is Dissy Ulina. I have a bachelor degree in Industrial Engineering and I
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dissyulina)](https://github.com/dissyulina)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissyulina&layout=compact)](https://github.com/dissyulina)
 
+<br/>  
+
+## 🤩**Projects**  
+
+- **The little pantry**: a static website for a fictional business (HTML, CSS, Bootstrap)   
+![The little pantry](images/thelittlepantry.jpg)  
+
+- **Trivia World**: a web-based interactive quiz game (HTML, CSS, JavaScript, Bootstrap, jQuery)  
+![Trivia World](images/triviaworld.png)  
+
+Check out the link to the repositories below! 👇
+
+
