@@ -7,7 +7,7 @@ My name is Dissy Ulina. I have a bachelor degree in Industrial Engineering and I
 
 - 🔭 I’m currently working on completing my diploma in Full-Stack Software Development with Code Institute.
 - 🌱 I’m currently learning Python, Django, and Flask.
-- 📫 Connect with me:  <a href="www.linkedin.com/in/dissy-ulina-159864208"><img src="images/linkedin.png" alt="Dissy Ulina | LinkedIn - Icon made by Freepik" width="21px"/></a>
+- 📫 Connect with me:  <a href="https://www.linkedin.com/in/dissy-ulina-159864208/"><img src="https://raw.githubusercontent.com/dissyulina/dissyulina/main/images/linkedin.png" alt="Dissy | LinkedIn" width="21px"/></a>
   
 
 <br/>
@@ -23,7 +23,7 @@ My name is Dissy Ulina. I have a bachelor degree in Industrial Engineering and I
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
 
 <br/>  
---- 
+
 
 ## 📈**GitHub Stats**  
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dissyulina)](https://github.com/dissyulina)
