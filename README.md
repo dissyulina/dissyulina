@@ -3,10 +3,9 @@
 
 ### Hi there 👋
 
-My name is Dissy Ulina, and I'm currently learning to code. I enjoy making beautiful and creative websites, games, and apps. I love the whole process of building something, and I find it very rewarding to be able to see and experience the end result. Check out my pinned repositories to see my projects!
+I'm Dissy, a junior software developer. I love the whole process of solving problems by building websites, apps or softwares. I find it very rewarding to be able to see and experience the end result. Check out my pinned repositories to see my projects!
 
-- 🔭 I’m currently working on completing my diploma in Full-Stack Software Development with Code Institute.
-- 🌱 I’m currently learning Vue.js and in the middle of building my own portofolio website.  
+- 🔭 Graduated in Full Stack Software Development Program at Code Institute.
 - 📫 Connect with me:  <a href="https://www.linkedin.com/in/dissy-ulina-159864208/"><img src="https://raw.githubusercontent.com/dissyulina/dissyulina/main/images/linkedin.png" alt="Dissy | LinkedIn" width="21px"/></a>
   
 
