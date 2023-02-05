@@ -46,10 +46,10 @@ I'm Dissy, a junior software developer. I love the whole process of solving prob
 - [**Trivia World**](https://dissyulina.github.io/trivia-world/index.html): a web-based interactive quiz game (HTML, CSS, JavaScript, Bootstrap, jQuery)  
 ![Trivia World](images/triviaworld.png)   
 
-- [**Cookle**](https://cookle-cookbook.herokuapp.com/): a recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB)  
+- [**Cookle**](https://cookle-cookbook.onrender.com/): a recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB)  
 ![Cookle](images/cookle.jpg)  
 
-- [**Shoes And More**](https://shoes-and-more.herokuapp.com/): a full stack e-commerce shop selling shoes and accessories (HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
+- [**Shoes And More**](https://shoesandmore.onrender.com/): a full stack e-commerce shop selling shoes and accessories (HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
 ![Shoes And More](images/shoesandmore.png)  
 
 Check out the link to the repositories below! 👇
