@@ -32,7 +32,6 @@ I'm Dissy, a software developer. I love the whole process of solving problems by
 
 
 ## 📈**GitHub Stats**  
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dissyulina)](https://github.com/dissyulina)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissyulina&layout=compact)](https://github.com/dissyulina)
 
 <br/>  
